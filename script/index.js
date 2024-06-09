@@ -39,7 +39,7 @@ inputTwo.addEventListener('input', function(){
     };
 });
 
-
+console.log('git');
 
 
 // textArea Осталось символов (Счётчик)
